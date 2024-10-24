@@ -1,9 +1,13 @@
 # Proyecto de apredizaje de Python
 
-## Información General
+## Autoria
 
 - Creador: Milor
 - Fecha inicio: 20241024
+
+## Resumen
+
+- Se pretende aprender Python crean un software que permite al personal ver su información
 
 ## Tareas
 
